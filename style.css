@@ -1,0 +1,14 @@
+body {
+  background: #1a1a1a;
+  margin: 0;
+  overflow: hidden;
+  font-family: 'Arial Black', sans-serif;}
+.groovy-bounce {
+  position: absolute;
+  font-size: 64px;
+  font-weight: bold;
+  background: linear-gradient(45deg, #00ff00, #00ccff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 0 20px rgba(0, 255, 0, 0.8);
+  filter: drop-shadow(0 0 10px #00ff00);}
